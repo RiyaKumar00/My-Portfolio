@@ -66,7 +66,7 @@ table{
   font-family: monospace;
 }
 .page{
-  height: 95vh;
+  margin-bottom: 30%;
 }
 .myimg{
   padding-right: 15%;
@@ -115,6 +115,7 @@ table{
 }
 .card{
   width: 275px;
+  height: 300px;
   background: #393e46;
   color: #aad8d3;
   text-align: center;
