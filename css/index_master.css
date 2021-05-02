@@ -64,6 +64,7 @@ table{
   font-size: 24px;
   font-weight: lighter;
   font-family: monospace;
+  z-index: 6;
 }
 .page{
   margin-bottom: 30%;
