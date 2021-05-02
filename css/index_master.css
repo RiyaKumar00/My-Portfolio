@@ -180,3 +180,23 @@ table{
   width: 100%;
   background-color:  #00adb5;
 }
+.count{
+  font-size: 200%;
+  color: #56ba2f;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.ccimg{
+  float:left;
+  width: 150px;
+  position: relative;
+  left:18%;
+  top: 80px;
+}
+.countcell{
+  padding: 2%;
+  border-radius: 20px;
+}
+.clickable:hover{
+  background-color: #a9eb8f;
+}
