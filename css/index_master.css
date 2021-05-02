@@ -60,8 +60,8 @@ table{
 .tagline{
   position: relative;
   top: 150px;
-  margin: 0 0 0 0;
-  font-size: 180%;
+  margin: 0 0 0 10px;
+  font-size: 24px;
   font-weight: lighter;
   font-family: monospace;
 }
